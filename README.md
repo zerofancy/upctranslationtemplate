@@ -1,0 +1,2 @@
+# upctranslationtemplate
+中国石油大学2021外文翻译模板
