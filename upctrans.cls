@@ -91,4 +91,4 @@
 \fancyfoot{} % 初始化页脚
 \fancyfoot[CE, CO]{\thepage}
 
-\renewcommand{\baselinestretch}{1.08} % 1.25倍行距
+%\renewcommand{\baselinestretch}{1.3541667} % 1.25倍行距
