@@ -69,7 +69,7 @@
 \ctexset{
 	section={%
 		format={\centering \songti \zihao{3}},
-		name={第,章},
+		name={,. },
 		aftertitle=\vspace{1.3em}
 	},
 	subsection={%
