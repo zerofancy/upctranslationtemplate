@@ -12,3 +12,6 @@ sync:
 	git add .
 	git commit -m "Sync"
 	git push
+.PHONY: count
+count:
+	texcount main.tex -inc -total
